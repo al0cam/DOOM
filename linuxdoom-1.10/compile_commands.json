@@ -1,0 +1,1118 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/doomdef.o",
+      "doomdef.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/doomdef.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/doomdef.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/doomstat.o",
+      "doomstat.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/doomstat.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/doomstat.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/dstrings.o",
+      "dstrings.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/dstrings.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/dstrings.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/i_system.o",
+      "i_system.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/i_system.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/i_system.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/i_sound.o",
+      "i_sound.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/i_sound.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/i_sound.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/i_video.o",
+      "i_video.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/i_video.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/i_video.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/i_net.o",
+      "i_net.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/i_net.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/i_net.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/tables.o",
+      "tables.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/tables.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/tables.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/f_finale.o",
+      "f_finale.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/f_finale.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/f_finale.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/f_wipe.o",
+      "f_wipe.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/f_wipe.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/f_wipe.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/d_main.o",
+      "d_main.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/d_main.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/d_main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/d_net.o",
+      "d_net.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/d_net.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/d_net.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/d_items.o",
+      "d_items.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/d_items.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/d_items.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/g_game.o",
+      "g_game.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/g_game.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/g_game.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/m_menu.o",
+      "m_menu.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/m_menu.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/m_menu.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/m_misc.o",
+      "m_misc.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/m_misc.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/m_misc.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/m_argv.o",
+      "m_argv.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/m_argv.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/m_argv.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/m_bbox.o",
+      "m_bbox.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/m_bbox.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/m_bbox.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/m_fixed.o",
+      "m_fixed.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/m_fixed.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/m_fixed.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/m_swap.o",
+      "m_swap.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/m_swap.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/m_swap.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/m_cheat.o",
+      "m_cheat.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/m_cheat.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/m_cheat.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/m_random.o",
+      "m_random.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/m_random.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/m_random.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/am_map.o",
+      "am_map.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/am_map.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/am_map.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/p_ceilng.o",
+      "p_ceilng.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/p_ceilng.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/p_ceilng.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/p_doors.o",
+      "p_doors.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/p_doors.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/p_doors.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/p_enemy.o",
+      "p_enemy.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/p_enemy.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/p_enemy.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/p_floor.o",
+      "p_floor.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/p_floor.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/p_floor.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/p_inter.o",
+      "p_inter.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/p_inter.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/p_inter.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/p_lights.o",
+      "p_lights.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/p_lights.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/p_lights.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/p_map.o",
+      "p_map.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/p_map.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/p_map.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/p_maputl.o",
+      "p_maputl.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/p_maputl.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/p_maputl.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/p_plats.o",
+      "p_plats.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/p_plats.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/p_plats.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/p_pspr.o",
+      "p_pspr.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/p_pspr.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/p_pspr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/p_setup.o",
+      "p_setup.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/p_setup.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/p_setup.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/p_sight.o",
+      "p_sight.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/p_sight.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/p_sight.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/p_spec.o",
+      "p_spec.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/p_spec.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/p_spec.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/p_switch.o",
+      "p_switch.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/p_switch.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/p_switch.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/p_mobj.o",
+      "p_mobj.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/p_mobj.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/p_mobj.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/p_telept.o",
+      "p_telept.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/p_telept.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/p_telept.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/p_tick.o",
+      "p_tick.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/p_tick.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/p_tick.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/p_saveg.o",
+      "p_saveg.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/p_saveg.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/p_saveg.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/p_user.o",
+      "p_user.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/p_user.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/p_user.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/r_bsp.o",
+      "r_bsp.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/r_bsp.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/r_bsp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/r_data.o",
+      "r_data.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/r_data.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/r_data.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/r_draw.o",
+      "r_draw.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/r_draw.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/r_draw.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/r_main.o",
+      "r_main.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/r_main.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/r_main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/r_plane.o",
+      "r_plane.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/r_plane.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/r_plane.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/r_segs.o",
+      "r_segs.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/r_segs.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/r_segs.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/r_sky.o",
+      "r_sky.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/r_sky.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/r_sky.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/r_things.o",
+      "r_things.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/r_things.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/r_things.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/w_wad.o",
+      "w_wad.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/w_wad.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/w_wad.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/wi_stuff.o",
+      "wi_stuff.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/wi_stuff.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/wi_stuff.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/v_video.o",
+      "v_video.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/v_video.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/v_video.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/st_lib.o",
+      "st_lib.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/st_lib.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/st_lib.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/st_stuff.o",
+      "st_stuff.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/st_stuff.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/st_stuff.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/hu_stuff.o",
+      "hu_stuff.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/hu_stuff.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/hu_stuff.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/hu_lib.o",
+      "hu_lib.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/hu_lib.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/hu_lib.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/s_sound.o",
+      "s_sound.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/s_sound.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/s_sound.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/z_zone.o",
+      "z_zone.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/z_zone.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/z_zone.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/info.o",
+      "info.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/info.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/info.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/sounds.o",
+      "sounds.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/sounds.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/sounds.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-Wall",
+      "-DNORMALUNIX",
+      "-DLINUX",
+      "-Wno-unused-const-variable",
+      "-Wno-pointer-to-int-cast",
+      "-c",
+      "-o",
+      "linux/i_main.o",
+      "i_main.c"
+    ],
+    "directory": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10",
+    "file": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/i_main.c",
+    "output": "/home/bendo/Projects/doom/DOOM/linuxdoom-1.10/linux/i_main.o"
+  }
+]
