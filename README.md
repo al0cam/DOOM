@@ -1,6 +1,8 @@
 # To compile
+```bash
 make clean
 bear -- make
+```
 
 # To run
 required Exports
